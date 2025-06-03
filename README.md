@@ -57,8 +57,8 @@ Cite us
 
 Prerequisites
 --------------------
-- R and RStudio
-- Python and corresponding IDE
+- R and RStudio (for visualization)
+- Python and corresponding IDE (for model training and evaluation)
 - Git/Github
 
 Implementation of the Environment
